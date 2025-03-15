@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\migrations\\20250315053144_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\migrations\\20250315053144_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\employee_management_system_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\employee_management_system_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314182553_initial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314182043_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\helpers\\ijwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\helpers\\ijwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|c:\\users\\admin\\desktop\\.net\\employee_management_system_api\\employee_management_system_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670BEAB7-B0F4-4DE5-9436-D01AA2F4FF43}|Employee_Management_System_API\\Employee_Management_System_API.csproj|solutionrelative:employee_management_system_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314115416_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314072028_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314070358_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314065423_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314064512_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314062807_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314062729_updateSome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314061506_updateSome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1627928588:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1646721036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250315053144_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250315053144_initial.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Migrations\\20250315053144_initial.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250315053144_initial.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Migrations\\20250315053144_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:31:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee_Management_System_API.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Employee_Management_System_API.http",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Employee_Management_System_API.http",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Employee_Management_System_API.http",
+              "RelativeToolTip": "Employee_Management_System_API\\Employee_Management_System_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-15T05:13:09.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Program.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:00:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Models\\Employee.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:38:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\appsettings.Development.json",
+              "RelativeToolTip": "Employee_Management_System_API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T12:26:56.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250314182043_initial3.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314182043_initial3.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314182043_initial3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:20:43.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250314182553_initial4.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314182553_initial4.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314182553_initial4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:25:53.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Models\\User.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:04:47.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:16:33.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:59:02.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:57:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\DTOs\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\DTOs\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\DTOs\\UserRegisterDTO.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\DTOs\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:47:59.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:04:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:49:27.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Helpers\\IJwtHelper.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Helpers\\IJwtHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Helpers\\IJwtHelper.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Helpers\\IJwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:39:33.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:52:18.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:50:51.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:35:05.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\appsettings.json",
+              "RelativeToolTip": "Employee_Management_System_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T13:20:11.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Services\\IUserService.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:55:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System_API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.net\\Employee_Management_System_API\\Employee_Management_System_API\\Services\\UserService.cs",
+              "RelativeToolTip": "Employee_Management_System_API\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:54:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250314115416_initial1.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314115416_initial1.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314115416_initial1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:54:17.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250314072028_initial3.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314072028_initial3.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314072028_initial3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:20:29.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250314070358_initial1.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314070358_initial1.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314070358_initial1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:03:58.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250314065423_initial.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314065423_initial.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314065423_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:54:23.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250314064512_update2.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314064512_update2.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314064512_update2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:45:12.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250314062807_update.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314062807_update.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314062807_update.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:28:07.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250314062729_updateSome1.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314062729_updateSome1.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314062729_updateSome1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:27:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250314061506_updateSome.cs",
+              "DocumentMoniker": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314061506_updateSome.cs",
+              "ToolTip": "E:\\Employee_Management_System_API\\Employee_Management_System_API\\Migrations\\20250314061506_updateSome.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:15:06.991Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
