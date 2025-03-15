@@ -108,7 +108,7 @@ cd Employee_Management_System_API
 2. Add your SQL Server connection string under `"ConnectionStrings"`:
 ```json
 "ConnectionStrings": {
-    "DefaultConnection": "Server=(localdb)\MSSQLLocalDB;Database=EmployeeDB;Trusted_Connection=True;"
+    "DefaultConnection": "Server=DESKTOP-T6E7Q6Q\\SQLEXPRESS;Initial Catalog=EmployeeManagment;Integrated Security=True;Encrypt=True;Trust Server Certificate=True;"
 }
 ```
 
@@ -123,14 +123,10 @@ dotnet ef database update
 ```bash
 dotnet run
 ```
-
-### **Step 5: Access Swagger for API Documentation**
-Navigate to: [`https://localhost:5001/swagger`](https://localhost:5001/swagger)
-
 ---
 
 ## Authentication Process
-1. **Register an Admin (Optional for Initial Setup).**
+1. **Register an Admin .**
 2. **Login to Generate a JWT Token.**
 3. Add the JWT token in the **Authorization** header in Swagger or Postman like this:
 ```
