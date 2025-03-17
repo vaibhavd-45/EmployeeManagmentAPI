@@ -22,7 +22,7 @@ namespace Employee_Management_System_API.Controllers
 
         // Access only Admin
         [Authorize(Roles = "Admin")]
-        [HttpPost("register-hr")]
+        [HttpPost("register")]
         public async Task<IActionResult> RegisterHR(UserRegisterDTO model)
         {
             try
@@ -43,7 +43,7 @@ namespace Employee_Management_System_API.Controllers
                     return BadRequest("Only Admins can add HR users.");
                 }
 
-                return Ok("HR user registered successfully.");
+                return Ok("HR registered successfully.");
             }
             catch (Exception ex)
             {
